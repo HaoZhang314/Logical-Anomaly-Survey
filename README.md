@@ -186,7 +186,7 @@ Please ensure:
 
 ---
 
-## 📝 Citation
+<!-- ## 📝 Citation
 
 If you find this resource helpful, please consider citing our survey:
 
@@ -197,7 +197,7 @@ If you find this resource helpful, please consider citing our survey:
   journal = {arXiv preprint},
   year    = {2026}
 }
-```
+``` -->
 
 ---
 
